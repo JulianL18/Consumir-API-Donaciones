@@ -2,7 +2,7 @@ const url = 'https://api-donaciones.onrender.com/donaciones '
 // const url = 'http://localhost:8282/donaciones '
 
 const regresarListar = () => {
-    window.location.href = 'listar.html';
+    window.location.href = 'index.html';
 }
 
 const recargarListaDonaciones = () => {
